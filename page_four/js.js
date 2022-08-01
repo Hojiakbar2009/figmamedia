@@ -76,3 +76,6 @@ const viewResults = (arr) => {
     `));
     madal.innerHTML = output;
 }
+
+
+
